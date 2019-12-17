@@ -6,4 +6,4 @@ Página de la asignatura de [Imagen Escrita](https://wiki.ead.pucv.cl/Imagen_Esc
 
 Ver:
 - [Pagina es este curso en Casiopea](https://wiki.ead.pucv.cl/Imagen_Escrita_2019)
-- [Página de Trabajos]( )
+- [Página de Trabajos]( https://matildecrxtt.github.io/imagen-escrita/)
