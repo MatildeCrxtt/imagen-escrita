@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Hepta+Slab:200,400,700,900&display=swap');
 
 body {
-    font-family: 'Hepta Slab', serif;
+    font-family: "Times New Roman", Times, serif;
     background-image: linear-gradient(#848181, #403e3b);
     color: #ebebe7;
     margin: 0;
 }
 
 a {
-    color: orange;
+    color: green;
 }
 
 p {
