@@ -47,7 +47,7 @@ h2, h3, h4{
 }
 
 .toc ol {
-    background-color: #F8EFE4;
+    background-color: #BDBDBD; #F8EFE4
     padding: 1em 0;
     border-radius: .5ex;
 }
