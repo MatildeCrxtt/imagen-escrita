@@ -4,7 +4,7 @@ body {
     font-family: "Times New Roman", Times, serif;
     background-image: linear-gradient(#848181, #403e3b);
     color: #F78847 orange;
-    margin: 0;
+    margin: 3em auto;
 }
 
 a {
