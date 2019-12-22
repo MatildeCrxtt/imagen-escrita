@@ -33,6 +33,11 @@ h1 {
     color: #E5A510; 
     /*text-shadow: 2px 2px 1px #AF8218;*/
     
+     background-color: #BDBDBD; #F8EFE4
+    padding: 1em 0;
+    border-radius: .2ex;
+    font-size: 2em 
+    
 }
 
 .toc span a { 
@@ -79,13 +84,13 @@ h2 {
     
 }
 
-.toc ol {
-    background-color: #BDBDBD; /*#F8EFE4*/
+/* .toc ol {
+    background-color: #BDBDBD; #F8EFE4
     padding: 1em 0;
     border-radius: .2ex;
-    font-size: 2em
+    font-size: 2em 
   
-}
+} */
 
 /*ol {
     display: block;
