@@ -29,8 +29,8 @@ h1 {
     font-size: 3em;
     line-height: 1em;
     font-weight: 200;
-    color: white;
-    text-shadow: 2px 2px 1px #383535;
+    color: #E5A510; 
+    text-shadow: 2px 2px 1px #AF8218;
     
 }
 
@@ -40,13 +40,13 @@ h2, h3, h4{
 
 .tagline a {
     text-decoration: none;
-    color: white;
+    color: #B98409;
     font-weight: 700;
     font-size: 30%;
 }
 
 .toc ol {
-    background-color: #6C2A03;
+    background-color: #752308;
     padding: 1em 0;
     border-radius: .5ex;
 }
@@ -61,14 +61,14 @@ h2, h3, h4{
     font-size: 80%;
     text-decoration: none;
     font-weight: 700;
-    text-shadow: 2px 2px 1px #383535;
+    text-shadow: 2px 2px 1px #AF8218;
 }
 
 #container {
     margin: 3em auto;
     width: 85%;
     max-width: 600px;
-    /*text-shadow: 1px 1px 0 #343433;*/
+    /*text-shadow: 1px 1px 0 #AF8218;*/
 }
 
 footer {
