@@ -27,9 +27,9 @@ ul, ol{
 
 h1 {
     text-align: center;
-    font-size: 3em;
-    line-height: 1em;
-    font-weight: 200;
+    font-size: 3.6em; /* tamaño de la letra */
+    line-height: 1.5em; /* altura de la letra */
+    font-weight: 200; /* grososr de la letra */
     color: #E5A510; 
     /*text-shadow: 2px 2px 1px #AF8218;*/
     
@@ -45,7 +45,29 @@ h1 {
 }
 
 h2, h3, h4{
-    margin-top: 1.5em;
+    margin-top: 2em;
+    
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
 }
 
 .tagline a {
@@ -62,6 +84,17 @@ h2, h3, h4{
     padding: 1em 0;
     border-radius: .2ex;
     font-size: 2em
+  
+}
+
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
 
 .toc ol li {
