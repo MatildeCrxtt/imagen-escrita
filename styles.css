@@ -16,7 +16,7 @@ p {
     color: #FFFFFF
     line-height: 1.5em;
     /* word-break: break-all; */
-    text-align: justify;
+    text-align: center; /*justify;*/
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
@@ -35,7 +35,7 @@ h1 {
     
 }
 
-.toc span class a { 
+.toc span a { 
     font-size: 3em;
     line-height: 1.5em;
     font-weight: 200;
@@ -57,7 +57,7 @@ h2, h3, h4{
 .toc ol {
     background-color: #BDBDBD; /*#F8EFE4*/
     padding: 1em 0;
-    border-radius: .5ex;
+    border-radius: .2ex;
 }
 
 .toc ol li {
