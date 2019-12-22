@@ -35,6 +35,15 @@ h1 {
     
 }
 
+.toc span class a { 
+    font-size: 3em;
+    line-height: 1.5em;
+    font-weight: 200;
+    color: #AF8218; 
+    
+
+}
+
 h2, h3, h4{
     margin-top: 2em;
 }
@@ -47,7 +56,7 @@ h2, h3, h4{
 }
 
 .toc ol {
-    background-color: #BDBDBD; #F8EFE4
+    background-color: #BDBDBD; //#F8EFE4
     padding: 1em 0;
     border-radius: .5ex;
 }
@@ -62,7 +71,7 @@ h2, h3, h4{
     font-size: 80%;
     text-decoration: none;
     font-weight: 700;
-    text-shadow: 2px 2px 1px; #AF8218
+    text-shadow: 2px 2px 1px; //#AF8218
 }
 
 #container {
