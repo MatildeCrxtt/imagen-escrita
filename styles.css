@@ -23,7 +23,7 @@ p {
 }
 
 ul, ol{
-    line-height: 1.5em;
+    line-height: 12em;
 }
 
 h1 {
@@ -31,7 +31,7 @@ h1 {
     line-height: 1em;
     font-weight: 200;
     color: #E5A510; 
-    text-shadow: 2px 2px 1px #AF8218;
+    /*text-shadow: 2px 2px 1px #AF8218;*/
     
 }
 
@@ -51,11 +51,11 @@ h2, h3, h4{
     text-decoration: none;
     color: #B98409;
     font-weight: 700;
-    font-size: 30%;
+    font-size: 10%; /*30*/
 }
 
 .toc ol {
-    background-color: white; /*#BDBDBD; //#F8EFE4*/
+    background-color: #BDBDBD; /*#F8EFE4*/
     padding: 1em 0;
     border-radius: .5ex;
 }
