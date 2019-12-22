@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Hepta+Slab:200,400,700,900&display=swap');
 
 body {
     font-family: "Times New Roman", Times, serif;
@@ -27,6 +26,7 @@ ul, ol{
 }
 
 h1 {
+    text-align: center;
     font-size: 3em;
     line-height: 1em;
     font-weight: 200;
@@ -36,6 +36,7 @@ h1 {
 }
 
 .toc span a { 
+    text-align: center;
     font-size: 3em;
     line-height: 1.5em;
     font-weight: 200;
