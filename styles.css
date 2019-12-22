@@ -45,24 +45,27 @@ h1 {
 }
 
 h2, h3, h4{
-    margin-top: 2em;
+    margin-top: 1.5em;
 }
 
 .tagline a {
     text-decoration: none;
     color: #B98409;
     font-weight: 700;
-    font-size: 10%; /*30*/
+    font-size: 20%; /*30*/
+    
+    
 }
 
 .toc ol {
     background-color: #BDBDBD; /*#F8EFE4*/
     padding: 1em 0;
     border-radius: .2ex;
+    font-size: 2em
 }
 
 .toc ol li {
-    list-style-position: inside;
+   list-style-position: inside;
     color: white;
     margin-left: 2em;
 }
@@ -71,6 +74,7 @@ h2, h3, h4{
     font-size: 80%;
     text-decoration: none;
     font-weight: 700;
+    color: white;
     /* text-shadow: none; 2px 2px 1px #AF8218*/
 }
 
