@@ -2,7 +2,7 @@
 body {
     font-family: "Times New Roman", Times, serif;
     background: #ABAEBE; /*gris azulado para el fondo #F8EFE4*/
-    color: #CEA15E; /*naranjo palido colore para las letras*/
+    color: #95431D; /*#CEA15E; naranjo palido colore para las letras*/
     margin: 3em auto; /*margen de los textos a la panrtalla*/
 }
 
@@ -37,10 +37,10 @@ h1 {
 
 .toc span a { 
     text-align: center;
-    font-size: 3em;
+    font-size: 80% /*1.5em;*/
     line-height: 1.5em;
     font-weight: 200;
-    color: #AF8218; 
+    color: #95431D; /*#AF8218; */
 
 }
 
