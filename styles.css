@@ -2,13 +2,13 @@
 
 body {
     font-family: "Times New Roman", Times, serif;
-    background: #ABAEBE; //gris azulado para el fondo #F8EFE4
-    color: #CEA15E; //naranjo palido colore para las letras
-    margin: 3em auto; //margen de los textos a la panrtalla
+    background: #ABAEBE; /*gris azulado para el fondo #F8EFE4*/
+    color: #CEA15E; /*naranjo palido colore para las letras*/
+    margin: 3em auto; /*margen de los textos a la panrtalla*/
 }
 
 a {
-    color: #CEA15E;
+    color: black;
 }
 
 p {
@@ -40,7 +40,6 @@ h1 {
     line-height: 1.5em;
     font-weight: 200;
     color: #AF8218; 
-    
 
 }
 
@@ -56,7 +55,7 @@ h2, h3, h4{
 }
 
 .toc ol {
-    background-color: #BDBDBD; //#F8EFE4
+    background-color: white; /*#BDBDBD; //#F8EFE4*/
     padding: 1em 0;
     border-radius: .5ex;
 }
@@ -71,7 +70,7 @@ h2, h3, h4{
     font-size: 80%;
     text-decoration: none;
     font-weight: 700;
-    text-shadow: 2px 2px 1px; //#AF8218
+    /* text-shadow: none; 2px 2px 1px #AF8218*/
 }
 
 #container {
