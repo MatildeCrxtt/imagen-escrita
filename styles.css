@@ -2,9 +2,9 @@
 
 body {
     font-family: "Times New Roman", Times, serif;
-    background: #403e3b;
-    color: #F78847;
-    margin: 3em auto;
+    background: #ABAEBE; //gris azulado para el fondo #F8EFE4
+    color: #CEA15E; //naranjo palido colore para las letras
+    margin: 3em auto; //margen de los textos a la panrtalla
 }
 
 a {
@@ -47,7 +47,7 @@ h2, h3, h4{
 }
 
 .toc ol {
-    background-color: #752308;
+    background-color: #F8EFE4;
     padding: 1em 0;
     border-radius: .5ex;
 }
@@ -62,7 +62,7 @@ h2, h3, h4{
     font-size: 80%;
     text-decoration: none;
     font-weight: 700;
-    text-shadow: 2px 2px 1px #AF8218;
+    text-shadow: 2px 2px 1px; #AF8218
 }
 
 #container {
@@ -75,6 +75,6 @@ h2, h3, h4{
 footer {
     text-align: center;
     background-color: #BDBDBD;
-    font-size: 10px;
+    font-size: 12px;
     padding: 2em;
 }
